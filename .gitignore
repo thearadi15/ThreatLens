@@ -1,0 +1,12 @@
+# Ignore local credentials and secrets
+credentials.txt
+*.pem
+*.key
+*.pfx
+*.env
+*.log
+
+# Ignore editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
